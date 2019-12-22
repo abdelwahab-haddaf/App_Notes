@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="616" height="511" viewBox="0 0 616 511">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M308,511c170.1,0,308-68.523,308-225.951S478.1,0,308,0,0,127.621,0,285.049,137.9,511,308,511Z" fill="#4d5468"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cb3fc"/>
+      <stop offset="1" stop-color="#623fd0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b4ec51"/>
+      <stop offset="1" stop-color="#429321"/>
+    </linearGradient>
+    <filter id="Book" x="152" y="234" width="108" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.216"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad961"/>
+      <stop offset="1" stop-color="#f76b1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x2="1.02" y2="1.01" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc1e50"/>
+      <stop offset="1" stop-color="#d2b0ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.006" y1="0.006" x2="0.962" y2="0.962" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccd1d9"/>
+      <stop offset="1" stop-color="#8f9aa8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.038" y1="0.038" x2="0.973" y2="0.973" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ac92ec"/>
+      <stop offset="1" stop-color="#7455c3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.038" y1="0.038" x2="0.973" y2="0.973" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#656d78"/>
+      <stop offset="1" stop-color="#2f3640"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x2="1.02" y2="1.01" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3023ae"/>
+      <stop offset="1" stop-color="#c86dd7"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask-2" data-name="Mask" clip-path="url(#clip-path)">
+    <g id="Notebook_Section_:easeOutQuad_0_275.04_348.74_302_425_360_1_10_213.75_518.16_302_425_360_1_20_156.98_611.23_302_425_360_1_30_42.58_528.21_302_425_360_" data-name="Notebook Section{:easeOutQuad;0,275.04,348.74,302,425,360,1;10,213.75,518.16,302,425,360,1;20,156.98,611.23,302,425,360,1;30,42.58,528.21,302,425,360," transform="translate(161 40)">
+      <g id="ROW_1" data-name="ROW 1" transform="translate(0 60)">
+        <g id="Image_Book" data-name="Image Book">
+          <g id="Book-2" data-name="Book" transform="translate(0 2)">
+            <path id="Book-3" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient)"/>
+            <path id="Book-4" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-2" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-3" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy" data-name="Image Book Copy" transform="translate(0 140)">
+          <g id="Book-5" data-name="Book">
+            <g transform="matrix(1, 0, 0, 1, -161, -240)" filter="url(#Book)">
+              <path id="Book-6" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(161 240)" fill="url(#linear-gradient-2)"/>
+            </g>
+            <path id="Book-7" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-2" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-2" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-4" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-5" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-6" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy-2" data-name="Image Book Copy" transform="translate(0 280)">
+          <g id="Book-8" data-name="Book">
+            <path id="Book-9" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-3)"/>
+            <path id="Book-10" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-3" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-3" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-7" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-8" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-9" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="ROW_2" data-name="ROW 2" transform="translate(106 138)">
+        <g id="Image_Book_Copy-3" data-name="Image Book Copy">
+          <g id="Book-11" data-name="Book">
+            <path id="Book-12" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-3)"/>
+            <path id="Book-13" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-4" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-4" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-10" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-11" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-12" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy-4" data-name="Image Book Copy" transform="translate(0 139)">
+          <g id="Book-14" data-name="Book">
+            <path id="Book-15" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-5)"/>
+            <path id="Book-16" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-5" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-5" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-13" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-14" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-15" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy-5" data-name="Image Book Copy" transform="translate(0 277)">
+          <g id="Book-17" data-name="Book">
+            <path id="Book-18" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-6)"/>
+            <path id="Book-19" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-6" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-6" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-16" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-17" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-18" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Image_Book_Copy-6" data-name="Image Book Copy" transform="translate(212 220)">
+        <g id="Book-20" data-name="Book">
+          <path id="Book-21" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-7)"/>
+          <path id="Book-22" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <rect id="Rectangle_4-7" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+        <g id="Group_2-7" data-name="Group 2" transform="translate(9 109)">
+          <rect id="Rectangle_5-19" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+          <rect id="Rectangle_5-20" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+          <rect id="Rectangle_5-21" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="ROW_3" data-name="ROW 3" transform="translate(107)">
+        <g id="Image_Book_Copy-7" data-name="Image Book Copy" transform="translate(105 80)">
+          <g id="Book-23" data-name="Book">
+            <path id="Book-24" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-8)"/>
+            <path id="Book-25" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-8" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-8" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-22" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-23" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-24" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy-8" data-name="Image Book Copy">
+          <g id="Book-26" data-name="Book">
+            <path id="Book-27" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-7)"/>
+            <path id="Book-28" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-9" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-9" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-25" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-26" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-27" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Image_Book_Copy-9" data-name="Image Book Copy" transform="translate(105 360)">
+          <g id="Book-29" data-name="Book">
+            <path id="Book-30" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="url(#linear-gradient-10)"/>
+            <path id="Book-31" data-name="Book" d="M2,0H85a5,5,0,0,1,5,5V114a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_4-10" data-name="Rectangle 4" width="6" height="119" transform="translate(76)" fill="#fff"/>
+          <g id="Group_2-10" data-name="Group 2" transform="translate(9 109)">
+            <rect id="Rectangle_5-28" data-name="Rectangle 5" width="7" height="2" rx="1" fill="#fff"/>
+            <rect id="Rectangle_5-29" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(9)" fill="#fff"/>
+            <rect id="Rectangle_5-30" data-name="Rectangle 5" width="7" height="2" rx="1" transform="translate(18)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

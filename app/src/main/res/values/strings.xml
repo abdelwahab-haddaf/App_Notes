@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="notebooks_are_the_best_place_to_manage_your_notes">Notebooks are the best place \n to manage your <font fgcolor="#7C82FC">Notes</font></string>
+    <string name="notebooks">Notebooks</string>
+    <string name="add_notes_to_notebook">Add Notes to Notebook</string>
+    <string name="simply_create_your_note_and_add_it_to_your_favorite_notebook">Simply create your note and \n add it to your favorite \n notebook</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="let_s_complete_creation_of_your_notebooks_account">Let’s complete creation \nof your Notebooks account</string>
+    <string name="by_signing_up_you_accept_the_terms_of_service_and_privacy_policy">By signing up you accept the Terms of \n Service and Privacy Policy.</string>
+    <string name="welcome_back_you_ve_been_missed">Welcome back! \nYou’ve been missed</string>
+    <string name="check_your_email">Check your email</string>
+    <string name="load_pb">Loading. Please wait...</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="empty_filed">This filed is empty</string>
+    <string name="email_address_not_valid">Email address not valid</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forget_password">Forget password</string>
+    <string name="enter_your_email_and_we_ll_send_you_instructions_on_how_to_reset_your_password">Enter your email and we’ll send you \ninstructions on how to reset your password.</string>
+    <string name="recover_password">Recover password</string>
+    <string name="go_to_email">Go to email</string>
+    <string name="we_ve_sent_instructions_on_how_to_reset_the_password_also_check_the_spam_folder">We’ve sent instructions on how to reset \nThe password (also check the Spam folder).</string>
+    <string name="password_short">Password short</string>
+    <string name="browse">Browse</string>
+    <string name="show_all">Show All</string>
+    <string name="notes">Notes</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="name_category">Name Category</string>
+    <string name="database_failed">Database failed</string>
+    <string name="search">Search</string>
+    <string name="create_notebook">Create \nNotebook</string>
+    <string name="enter_title_note">Enter Title Note</string>
+    <string name="enter_note">Enter Note</string>
+</resources>
